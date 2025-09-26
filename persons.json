@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "description": "Alice is een enthousiaste programmeur die houdt van reizen en koken.",
+    "age": 28,
+    "active": true,
+    "birthdate": "1997-04-15",
+    "profileImage": "https://example.com/images/alice.jpg",
+    "role": "student",
+    "hobbies": ["lezen", "fietsen", "muziek"],
+    "addressId": 101
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "description": "Bob werkt als grafisch ontwerper en speelt in een band.",
+    "age": 34,
+    "active": true,
+    "birthdate": "1991-09-22",
+    "profileImage": "https://example.com/images/bob.jpg",
+    "role": "teacher",
+    "hobbies": ["gitaar spelen", "tekenen", "wandelen"],
+    "addressId": 102
+  },
+  {
+    "id": 3,
+    "name": "Clara",
+    "description": "Clara is een studente psychologie en houdt van vrijwilligerswerk.",
+    "age": 21,
+    "active": false,
+    "birthdate": "2004-01-10",
+    "profileImage": "https://example.com/images/clara.jpg",
+    "role": "student",
+    "hobbies": ["vrijwilligerswerk", "yoga", "films"],
+    "addressId": 103
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "description": "David is een software engineer die van technologie en gaming houdt.",
+    "age": 30,
+    "active": true,
+    "birthdate": "1995-07-18",
+    "profileImage": "https://example.com/images/david.jpg",
+    "role": "developer",
+    "hobbies": ["gaming", "programmeren", "wandelen"],
+    "addressId": 104
+  },
+  {
+    "id": 5,
+    "name": "Eva",
+    "description": "Eva is een leerkracht lager onderwijs die van kinderen en dieren houdt.",
+    "age": 42,
+    "active": false,
+    "birthdate": "1983-03-02",
+    "profileImage": "https://example.com/images/eva.jpg",
+    "role": "teacher",
+    "hobbies": ["paardrijden", "bakken", "zwemmen"],
+    "addressId": 105
+  },
+  {
+    "id": 6,
+    "name": "Frank",
+    "description": "Frank is een fotograaf die zich specialiseert in landschappen.",
+    "age": 37,
+    "active": true,
+    "birthdate": "1988-11-11",
+    "profileImage": "https://example.com/images/frank.jpg",
+    "role": "artist",
+    "hobbies": ["fotografie", "reizen", "klimmen"],
+    "addressId": 106
+  },
+  {
+    "id": 7,
+    "name": "Gina",
+    "description": "Gina is een arts die graag kookt in haar vrije tijd.",
+    "age": 45,
+    "active": true,
+    "birthdate": "1980-12-25",
+    "profileImage": "https://example.com/images/gina.jpg",
+    "role": "doctor",
+    "hobbies": ["koken", "hardlopen", "wandelen"],
+    "addressId": 107
+  },
+  {
+    "id": 8,
+    "name": "Hugo",
+    "description": "Hugo is een muzikant die vaak op festivals speelt.",
+    "age": 29,
+    "active": false,
+    "birthdate": "1996-05-08",
+    "profileImage": "https://example.com/images/hugo.jpg",
+    "role": "artist",
+    "hobbies": ["muziek maken", "reizen", "lezen"],
+    "addressId": 108
+  },
+  {
+    "id": 9,
+    "name": "Iris",
+    "description": "Iris werkt als journalist en schrijft vaak over politiek.",
+    "age": 38,
+    "active": true,
+    "birthdate": "1987-06-06",
+    "profileImage": "https://example.com/images/iris.jpg",
+    "role": "journalist",
+    "hobbies": ["schrijven", "hardlopen", "muziek"],
+    "addressId": 109
+  },
+  {
+    "id": 10,
+    "name": "Jonas",
+    "description": "Jonas is een student economie die graag sport en reist.",
+    "age": 23,
+    "active": false,
+    "birthdate": "2002-02-28",
+    "profileImage": "https://example.com/images/jonas.jpg",
+    "role": "student",
+    "hobbies": ["voetbal", "fitness", "reizen"],
+    "addressId": 110
+  }
+]

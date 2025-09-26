@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "street": "Kerkstraat 12",
+    "city": "Gent",
+    "postalCode": "9000",
+    "country": "België",
+    "hasGarden": false
+  },
+  {
+    "id": 102,
+    "street": "Stationslaan 5",
+    "city": "Antwerpen",
+    "postalCode": "2000",
+    "country": "België",
+    "hasGarden": true
+  },
+  {
+    "id": 103,
+    "street": "Markt 22",
+    "city": "Brugge",
+    "postalCode": "8000",
+    "country": "België",
+    "hasGarden": false
+  },
+  {
+    "id": 104,
+    "street": "Bergstraat 45",
+    "city": "Leuven",
+    "postalCode": "3000",
+    "country": "België",
+    "hasGarden": true
+  },
+  {
+    "id": 105,
+    "street": "Dorpsstraat 88",
+    "city": "Mechelen",
+    "postalCode": "2800",
+    "country": "België",
+    "hasGarden": true
+  },
+  {
+    "id": 106,
+    "street": "Lindenlaan 14",
+    "city": "Hasselt",
+    "postalCode": "3500",
+    "country": "België",
+    "hasGarden": false
+  },
+  {
+    "id": 107,
+    "street": "Bloemstraat 20",
+    "city": "Kortrijk",
+    "postalCode": "8500",
+    "country": "België",
+    "hasGarden": true
+  },
+  {
+    "id": 108,
+    "street": "Kasteelstraat 99",
+    "city": "Oostende",
+    "postalCode": "8400",
+    "country": "België",
+    "hasGarden": false
+  },
+  {
+    "id": 109,
+    "street": "Nieuwstraat 33",
+    "city": "Sint-Niklaas",
+    "postalCode": "9100",
+    "country": "België",
+    "hasGarden": true
+  },
+  {
+    "id": 110,
+    "street": "Sportlaan 77",
+    "city": "Leuven",
+    "postalCode": "3000",
+    "country": "België",
+    "hasGarden": false
+  }
+]
