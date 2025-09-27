@@ -6,9 +6,13 @@
     "age": 28,
     "active": true,
     "birthdate": "1997-04-15",
-    "profileImage": "https://example.com/images/alice.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person1.jpg",
     "role": "student",
-    "hobbies": ["lezen", "fietsen", "muziek"],
+    "hobbies": [
+      "lezen",
+      "fietsen",
+      "muziek"
+    ],
     "addressId": 101
   },
   {
@@ -18,9 +22,13 @@
     "age": 34,
     "active": true,
     "birthdate": "1991-09-22",
-    "profileImage": "https://example.com/images/bob.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person2.jpg",
     "role": "teacher",
-    "hobbies": ["gitaar spelen", "tekenen", "wandelen"],
+    "hobbies": [
+      "gitaar spelen",
+      "tekenen",
+      "wandelen"
+    ],
     "addressId": 102
   },
   {
@@ -30,9 +38,13 @@
     "age": 21,
     "active": false,
     "birthdate": "2004-01-10",
-    "profileImage": "https://example.com/images/clara.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person3.jpg",
     "role": "student",
-    "hobbies": ["vrijwilligerswerk", "yoga", "films"],
+    "hobbies": [
+      "vrijwilligerswerk",
+      "yoga",
+      "films"
+    ],
     "addressId": 103
   },
   {
@@ -42,9 +54,13 @@
     "age": 30,
     "active": true,
     "birthdate": "1995-07-18",
-    "profileImage": "https://example.com/images/david.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person4.jpg",
     "role": "developer",
-    "hobbies": ["gaming", "programmeren", "wandelen"],
+    "hobbies": [
+      "gaming",
+      "programmeren",
+      "wandelen"
+    ],
     "addressId": 104
   },
   {
@@ -54,9 +70,13 @@
     "age": 42,
     "active": false,
     "birthdate": "1983-03-02",
-    "profileImage": "https://example.com/images/eva.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person5.jpg",
     "role": "teacher",
-    "hobbies": ["paardrijden", "bakken", "zwemmen"],
+    "hobbies": [
+      "paardrijden",
+      "bakken",
+      "zwemmen"
+    ],
     "addressId": 105
   },
   {
@@ -66,9 +86,13 @@
     "age": 37,
     "active": true,
     "birthdate": "1988-11-11",
-    "profileImage": "https://example.com/images/frank.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person6.jpg",
     "role": "artist",
-    "hobbies": ["fotografie", "reizen", "klimmen"],
+    "hobbies": [
+      "fotografie",
+      "reizen",
+      "klimmen"
+    ],
     "addressId": 106
   },
   {
@@ -78,9 +102,13 @@
     "age": 45,
     "active": true,
     "birthdate": "1980-12-25",
-    "profileImage": "https://example.com/images/gina.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person7.jpg",
     "role": "doctor",
-    "hobbies": ["koken", "hardlopen", "wandelen"],
+    "hobbies": [
+      "koken",
+      "hardlopen",
+      "wandelen"
+    ],
     "addressId": 107
   },
   {
@@ -90,9 +118,13 @@
     "age": 29,
     "active": false,
     "birthdate": "1996-05-08",
-    "profileImage": "https://example.com/images/hugo.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person8.jpg",
     "role": "artist",
-    "hobbies": ["muziek maken", "reizen", "lezen"],
+    "hobbies": [
+      "muziek maken",
+      "reizen",
+      "lezen"
+    ],
     "addressId": 108
   },
   {
@@ -102,9 +134,13 @@
     "age": 38,
     "active": true,
     "birthdate": "1987-06-06",
-    "profileImage": "https://example.com/images/iris.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person9.jpg",
     "role": "journalist",
-    "hobbies": ["schrijven", "hardlopen", "muziek"],
+    "hobbies": [
+      "schrijven",
+      "hardlopen",
+      "muziek"
+    ],
     "addressId": 109
   },
   {
@@ -114,9 +150,13 @@
     "age": 23,
     "active": false,
     "birthdate": "2002-02-28",
-    "profileImage": "https://example.com/images/jonas.jpg",
+    "profileImage": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/person10.jpg",
     "role": "student",
-    "hobbies": ["voetbal", "fitness", "reizen"],
+    "hobbies": [
+      "voetbal",
+      "fitness",
+      "reizen"
+    ],
     "addressId": 110
   }
 ]

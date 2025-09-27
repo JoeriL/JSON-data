@@ -5,7 +5,8 @@
     "city": "Gent",
     "postalCode": "9000",
     "country": "België",
-    "hasGarden": false
+    "hasGarden": false,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address1.jpg"
   },
   {
     "id": 102,
@@ -13,7 +14,8 @@
     "city": "Antwerpen",
     "postalCode": "2000",
     "country": "België",
-    "hasGarden": true
+    "hasGarden": true,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address2.jpg"
   },
   {
     "id": 103,
@@ -21,7 +23,8 @@
     "city": "Brugge",
     "postalCode": "8000",
     "country": "België",
-    "hasGarden": false
+    "hasGarden": false,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address3.jpg"
   },
   {
     "id": 104,
@@ -29,7 +32,8 @@
     "city": "Leuven",
     "postalCode": "3000",
     "country": "België",
-    "hasGarden": true
+    "hasGarden": true,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address4.jpg"
   },
   {
     "id": 105,
@@ -37,7 +41,8 @@
     "city": "Mechelen",
     "postalCode": "2800",
     "country": "België",
-    "hasGarden": true
+    "hasGarden": true,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address5.jpg"
   },
   {
     "id": 106,
@@ -45,7 +50,8 @@
     "city": "Hasselt",
     "postalCode": "3500",
     "country": "België",
-    "hasGarden": false
+    "hasGarden": false,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address6.jpg"
   },
   {
     "id": 107,
@@ -53,7 +59,8 @@
     "city": "Kortrijk",
     "postalCode": "8500",
     "country": "België",
-    "hasGarden": true
+    "hasGarden": true,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address7.jpg"
   },
   {
     "id": 108,
@@ -61,7 +68,8 @@
     "city": "Oostende",
     "postalCode": "8400",
     "country": "België",
-    "hasGarden": false
+    "hasGarden": false,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address8.jpg"
   },
   {
     "id": 109,
@@ -69,7 +77,8 @@
     "city": "Sint-Niklaas",
     "postalCode": "9100",
     "country": "België",
-    "hasGarden": true
+    "hasGarden": true,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address9.jpg"
   },
   {
     "id": 110,
@@ -77,6 +86,7 @@
     "city": "Leuven",
     "postalCode": "3000",
     "country": "België",
-    "hasGarden": false
+    "hasGarden": false,
+    "imageLink": "https://raw.githubusercontent.com/JoeriL/JSON-data/7846dfb5b7278a690e02d86a4e2f7ce7738f37a8/images/address10.jpg"
   }
 ]
